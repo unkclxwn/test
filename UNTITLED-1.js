@@ -74,3 +74,5 @@ let isChecker = true,
     isClose = true;
 
 console.log(isChecked && isClose);
+
+aa
